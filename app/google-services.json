@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "818791245927",
+    "firebase_url": "https://quizz-akademiaprawajazdy.firebaseio.com",
+    "project_id": "quizz-akademiaprawajazdy",
+    "storage_bucket": "quizz-akademiaprawajazdy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818791245927:android:329d942c17fb8249510cc2",
+        "android_client_info": {
+          "package_name": "norbertprosniak.quizz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818791245927-l1b5kjgc93l8119lnunk5qrh1r9j8hsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqn9eqHw28tlR81SQRIE0K9DNRgWZJv90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818791245927-l1b5kjgc93l8119lnunk5qrh1r9j8hsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
