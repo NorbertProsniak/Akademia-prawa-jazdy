@@ -1,1 +1,3 @@
 # Akademia-prawa-jazdy
+Aplikacja mobilna, która wspomaga naukę do egzaminu na prawo jazdy. Środowisko programistyczne w jakim pracowano tworząc oprogramowanie to Android Studio. Do napisania produktu użyto Javy oraz modelu MVVM. 
+Głównym celem aplikacji jest wspomaganie osób uczących się zasad ruchu drogowego. Postanowiono więc, że najlepszym do tego sposobem jest stworzenie produktu, dzięki któremu użyktownik będzie mógł ćwiczyć wykonywanie testów podobnych do tych na oficjalnym egzaminie. Zgodnie z tym zamysłem została utworzona aplikacja typu quiz. Jej funkcjonalność pozwala na sprawdzenie uprzednio zdobytego wyniku wybranego quizu, co przekłada się na monitorowanie swoich osiągnięć.
