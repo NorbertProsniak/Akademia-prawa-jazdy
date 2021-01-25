@@ -4,7 +4,7 @@
 ## Table of contents
 * [Ogólne informacje](#Ogólne-informacje)
 * [Zrzuty widoków z aplikacji](#Zrzuty-widoków-z-aplikacji)
-* [Technologies](#technologies)
+* [Technologie](#Technologie)
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
@@ -16,11 +16,14 @@ Głównym celem aplikacji jest wspomaganie osób uczących się zasad ruchu drog
 
 ## Zrzuty widoków z aplikacji
 ![Example screenshot](./zdjecia/1.jpg)
+![Example screenshot](./zdjecia/2.jpg)
+![Example screenshot](./zdjecia/3.jpg)
+![Example screenshot](./zdjecia/4.jpg)
+![Example screenshot](./zdjecia/5.jpg)
+![Example screenshot](./zdjecia/6.jpg)
+![Example screenshot](./zdjecia/7.jpg)
 
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
-
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
+## Technologie
+* Android Studio
+* Java 
+* Gradle
